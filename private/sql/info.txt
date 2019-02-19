@@ -1,0 +1,5 @@
+Le repertoire SQL stock les backup de structure de base de données.
+
+Nom des fichiers :
+201902191207.SQL
+201902191208.SQL
