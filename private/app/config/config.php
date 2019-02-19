@@ -19,12 +19,4 @@ $dev_domains = [
     "webpizza.local"
 ];
 
-
-
-
-
-
-
-
-
 ?>
