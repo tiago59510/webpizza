@@ -17,4 +17,9 @@ require_once "../private/app/src/routing.php";
 
 //
 require_once "../private/app/src/compile.php";
+
+//Ajout de la fonction dump
+require_once "../private/app/src/load_utils.php";
+
+
 ?>  

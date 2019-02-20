@@ -4,6 +4,9 @@
 
 //1. Definition des constantes
 
+//Definir le chemain du répertoire "utils"
+define('UTILS_PASS', '../private/app/utils/');
+
 //WEBSITE_TITLE : Definition du titre du site
 define('WEBSITE_TITLE', 'Web-Pizza');
 
