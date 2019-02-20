@@ -9,7 +9,7 @@ if(!function_exists('randstring')) {
         $randstring = $characters[rand(0, strlen($characters))];
     }
     return $randstring;
-    
+
 }
 };
 
